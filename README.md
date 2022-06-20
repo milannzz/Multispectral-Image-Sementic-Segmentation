@@ -1,6 +1,6 @@
 # Multispectral-Image-Sementic-Segmentation
 
-Project Details -> ![](https://github.com/milannzz/Multispectral-Image-Sementic-Segmentation/blob/main/FinalReport.pdf)
+Project Details -> [Project Report](https://github.com/milannzz/Multispectral-Image-Sementic-Segmentation/blob/main/FinalReport.pdf)
 
 Sample Output Images
 
